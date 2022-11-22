@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Sprinkles40/Sprinkles40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on retirement.  So I am really into Arduino projects and making devices to help Security
+- 🌱 I’m currently learning Im Learning Kotlin. i LWys wanted too create an app ...
+- 👯 I’m looking to collaborate on Any arduino projects that can help a penntester ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about My time serving in the Marines.
+- 📫 How to reach me:email me  ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...I have one leg.
+-->
